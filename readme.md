@@ -1,6 +1,4 @@
-# Getting Started
-
-🏥 Medical Clinic Management – CAP Project
+# 🏥 Medical Clinic Management – CAP Project
 
 Welcome to your SAP CAP project for Medical Clinic Management.
 
